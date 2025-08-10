@@ -69,3 +69,4 @@ plt.savefig("weather_forecast_with_emojis.png", dpi=300)
 plt.show()
 
 ## OUTPUT
+<img width="1400" height="600" alt="Image" src="https://github.com/user-attachments/assets/9fbce3ad-b6db-4db9-9b55-5e9974f09319" />
